@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=FrameExtract
+Comment=Extract a frame from a video as PNG
+Exec=/home/muzasio/.local/bin/frameextract.py %f
+Icon=video-x-generic
+Terminal=false
+MimeType=video/mp4;video/x-matroska;video/webm;video/quicktime;video/x-msvideo;
+Categories=AudioVideo;Video;
